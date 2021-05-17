@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mac_react_app_2021/static/css/main.cc863176.chunk.css",
-    "main.js": "/mac_react_app_2021/static/js/main.90a1ac19.chunk.js",
-    "main.js.map": "/mac_react_app_2021/static/js/main.90a1ac19.chunk.js.map",
+    "main.js": "/mac_react_app_2021/static/js/main.f324fe16.chunk.js",
+    "main.js.map": "/mac_react_app_2021/static/js/main.f324fe16.chunk.js.map",
     "runtime-main.js": "/mac_react_app_2021/static/js/runtime-main.2b265596.js",
     "runtime-main.js.map": "/mac_react_app_2021/static/js/runtime-main.2b265596.js.map",
     "static/js/2.bc1b92fa.chunk.js": "/mac_react_app_2021/static/js/2.bc1b92fa.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.2b265596.js",
     "static/js/2.bc1b92fa.chunk.js",
     "static/css/main.cc863176.chunk.css",
-    "static/js/main.90a1ac19.chunk.js"
+    "static/js/main.f324fe16.chunk.js"
   ]
 }
